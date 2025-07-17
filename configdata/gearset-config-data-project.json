@@ -1,0 +1,8 @@
+{
+  "Packages": [
+    "ProductCatalogManagement",
+    "RateManagement",
+    "SalesforcePricing"
+  ],
+  "Version": 1
+}
