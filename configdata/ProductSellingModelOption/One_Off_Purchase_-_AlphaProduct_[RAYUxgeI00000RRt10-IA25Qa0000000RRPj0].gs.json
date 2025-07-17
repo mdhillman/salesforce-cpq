@@ -1,0 +1,23 @@
+{
+  "Object": "ProductSellingModelOption",
+  "Fields": {
+    "GearsetDisplayName": "One Off Purchase - AlphaProduct",
+    "IsDefault": "true"
+  },
+  "References": [
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "RAYUxgeI00000RRt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IA25Qa0000000RRPj0"
+      }
+    }
+  ]
+}
